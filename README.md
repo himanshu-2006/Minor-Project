@@ -15,7 +15,8 @@ Password: [156,157,158]
 How to Use the System
 Step 1: Clone the Repository
 
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/himanshu-2006/Minor-Project.git
+
 Step 2: Create the Database
 Install MySQL Server if not already installed.
 Open MySQL Workbench or your preferred MySQL client.
