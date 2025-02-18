@@ -6,8 +6,8 @@ from mainpage import main
 
 conn = myc.connect(host = "localhost",
                      user= "root", 
-                     password= "",
-                     database = "")
+                     password= "",  #add your dbms password
+                     database = "") 
 
 window0 = ctk.CTk()
 window0.title("Library Management System")
